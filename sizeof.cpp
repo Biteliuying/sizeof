@@ -3,5 +3,10 @@
 int main()
 {
 	double a = 4;
-	printf("在内存中所占的字节数为%d", sizeof(a));
+	printf("鍦ㄥ唴瀛樹腑鎵�鍗犵殑瀛楄妭鏁颁负%d", sizeof(a));
+}
+int main()
+{
+	double b = 4;
+	printf("鍦ㄥ唴瀛樹腑鎵�鍗犵殑瀛楄妭鏁颁负%d", sizeof(b));
 }
